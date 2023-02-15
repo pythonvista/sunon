@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.yeedjs",
+      "sha256_cert_fingerprints": ["29:1C:E4:3D:A7:67:DE:E2:72:98:C9:9A:AB:5B:3C:43:DE:F6:CF:1B:45:CD:02:65:B7:15:AE:E1:C3:E9:C9:51"]
+    }
+  }
+]
