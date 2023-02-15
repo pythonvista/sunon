@@ -297,7 +297,7 @@ export default {
     drawer: false,
     allApliances: [],
     inputRules: [(v) => (v && v.length >= 1) || "Field is required"],
-    numberRules: [(v) => (v && v > 1) || "Field is required"],
+    numberRules: [(v) => (v && v > 0) || "Field is required"],
     adddialog: false,
     custom: {
       name: "",
